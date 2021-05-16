@@ -12,17 +12,14 @@ I am an undergraduate👨🏻‍🎓 who is a self-motivated and hard working�
 
 
 ### Social Links 
- [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Facebook][2.1]][3]
+ [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] 
 
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
 
 
 [1]: https://twitter.com/ddthilindra
 [2]: https://www.linkedin.com/in/deshitha-thilindra-4b70941b9/
-[3]: https://www.facebook.com/ddthilindra/
-[4]: https://www.instagram.com/deshitha_thilindra/
